@@ -1,0 +1,8 @@
+>pip install django
+>python -m django --version
+>django-admin
+>django-admin startproject Iris_prediction
+>python manage.py runserver
+>python manage.py startapp predict
+>python manage.py makemigrations
+>python manage.py migrate
